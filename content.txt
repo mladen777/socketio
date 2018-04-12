@@ -1,0 +1,7 @@
+socketio server
+
+depends on node.js
+
+runs on the port 3000
+
+url:  socketio.mladen.piipol.nl:3000
